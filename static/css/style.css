@@ -175,3 +175,9 @@
     height:300px;
 }
 }
+
+@media only screen and (max-width:1536px){
+    .car-img{ 
+        height:740px; 
+}
+}
