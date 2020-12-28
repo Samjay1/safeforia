@@ -114,6 +114,11 @@
     background-image: linear-gradient(to right,#A3C10E, #86B84A);
 }
 
+.bg-blue{
+/*    padding: 35px 40px; */
+    background-image: linear-gradient(to right,#5b80fd, #43cfdb);
+}
+
 /*End About us*/
 
 
