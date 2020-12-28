@@ -16,9 +16,7 @@
 /*    background-color: #f5f5f5;*/
     color:#c6e301!important;
 }
-.nlinks{
-    
-}
+
 .nlinks:hover{
     color:#c6e301;
 }
@@ -33,10 +31,14 @@
 .t-color{
     color:#c6e301;
 }
+.s-color, .hover{
+    color: #008B75;
+}
+
 .mlinks{
     color: black;
 }
-.mlinks:hover{
+.mlinks:hover, .hover:hover{
     color:#c6e301;
     text-decoration: none;
 }
@@ -145,7 +147,23 @@
 
 
 
+/*side blog*/
+.side-blog{
+    width: 300px;
+    
+}
+.side-blog img{
+    width: 35%;
+    height: 70px;
+    
+}
+.side-blog p{
+    display: inline-block;
+    width: 60%;
+    font-weight: 600
+}
 
+/*End side blog*/
 
 
 
