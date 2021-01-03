@@ -65,6 +65,9 @@
     background-image: linear-gradient(to right,#7b1111,#ff450d)
 }
 
+.login-card{
+  width: 350px;
+}
 /*/////////////////////*/
 .banner{
     height: 200px;
