@@ -24,7 +24,7 @@
 
 .car-img{
     width: 100%;
-    height:630px;
+    height:600px;
 }
 .mmt{
     margin-top: 30px;
@@ -34,6 +34,12 @@
 }
 .s-color, .hover{
     color: #008B75;
+}
+.green-border{
+ border: 5px solid #c6e301;
+}
+.g-border{
+ border: 1px solid #c6e301;
 }
 
 .mlinks{
