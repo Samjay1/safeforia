@@ -78,7 +78,35 @@
 .banner{
     height: 200px;
     width: 100%;
-    background-image: linear-gradient(to left,#86B84A, #A3C10E);
+    background-image: linear-gradient(to right,#86B84A, #A3C10E);
+    background-position: center;
+    background-size: contain;
+}
+
+.r-image{
+    background-image: url(/static/images/covers/reseach%20banner.png);
+    background-position: center;
+    background-size: contain;
+}
+.f-image{
+    background-image: url(/static/images/covers/reseach%20banner.png);
+    background-position: center;
+    background-size: contain;
+}
+.q-image{
+    background-image: url(/static/images/covers/reseach%20banner.png);
+    background-position: center;
+    background-size: contain;
+}
+.c-image{
+    background-image: url(/static/images/covers/reseach%20banner.png);
+    background-position: center;
+    background-size: contain;
+}
+.k-image{
+    background-image: url(/static/images/covers/reseach%20banner.png);
+    background-position: center;
+    background-size: contain;
 }
 
 /*END GENERAL*/
